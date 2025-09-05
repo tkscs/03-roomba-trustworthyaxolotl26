@@ -6,6 +6,7 @@
 # -----------------------------------------------------------------------------
  
 from turtle import left, forward, backward
+#from turtle import right
 import room
 
 # Draw the Level 1 version of the room
